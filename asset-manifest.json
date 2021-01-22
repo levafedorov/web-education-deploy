@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/web-education-deploy/static/css/main.ea40f989.chunk.css",
+    "main.js": "/web-education-deploy/static/js/main.5c3debcd.chunk.js",
+    "main.js.map": "/web-education-deploy/static/js/main.5c3debcd.chunk.js.map",
+    "runtime-main.js": "/web-education-deploy/static/js/runtime-main.547525fc.js",
+    "runtime-main.js.map": "/web-education-deploy/static/js/runtime-main.547525fc.js.map",
+    "static/css/2.30fbed10.chunk.css": "/web-education-deploy/static/css/2.30fbed10.chunk.css",
+    "static/js/2.851649de.chunk.js": "/web-education-deploy/static/js/2.851649de.chunk.js",
+    "static/js/2.851649de.chunk.js.map": "/web-education-deploy/static/js/2.851649de.chunk.js.map",
+    "index.html": "/web-education-deploy/index.html",
+    "static/css/2.30fbed10.chunk.css.map": "/web-education-deploy/static/css/2.30fbed10.chunk.css.map",
+    "static/css/main.ea40f989.chunk.css.map": "/web-education-deploy/static/css/main.ea40f989.chunk.css.map",
+    "static/js/2.851649de.chunk.js.LICENSE.txt": "/web-education-deploy/static/js/2.851649de.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/web-education-deploy/static/media/shape-5.444d6391.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.547525fc.js",
+    "static/css/2.30fbed10.chunk.css",
+    "static/js/2.851649de.chunk.js",
+    "static/css/main.ea40f989.chunk.css",
+    "static/js/main.5c3debcd.chunk.js"
+  ]
+}
